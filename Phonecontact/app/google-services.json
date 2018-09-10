@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702097704601",
+    "firebase_url": "https://phonecontact-4edbc.firebaseio.com",
+    "project_id": "phonecontact-4edbc",
+    "storage_bucket": "phonecontact-4edbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702097704601:android:af8d950b10025185",
+        "android_client_info": {
+          "package_name": "com.abc.phonecontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702097704601-o8tuojrjj8h6cn3ufboehr65vlmlclj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.phonecontact",
+            "certificate_hash": "7fc28301df9c8d541b12b0ffa804e8c0b214f223"
+          }
+        },
+        {
+          "client_id": "702097704601-eeg5c96b6ohmp2ibk15vidnb58alss1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EVPEqeYEoO2K6wjlwYWA7DkJbzmQLvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702097704601-eeg5c96b6ohmp2ibk15vidnb58alss1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
